@@ -1,0 +1,77 @@
+
+body, html {
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .parallax {
+    
+    background-image: url("background.jpg");
+  
+   
+    height: 100%;
+  
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax2 {
+    
+    background-image: url("background2.jpg");
+  
+   
+    height: 100%;
+  
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .titulo {
+  letter-spacing: 7px;
+  color: #fff;
+  text-align: center;
+  padding-top: 5em;
+    
+  }
+
+  .desc {
+    letter-spacing: 5px;
+    color: #fff;
+    text-align: center;
+    padding-top: 2em;
+
+  }
+  
+  .whoweare {
+      text-align: center;
+      padding-top: 3em;
+  }
+
+
+
+  .pepe {
+    border-radius: 50%;
+    max-width: 20%;
+  }
+
+  .trimux {
+      text-align: center;
+      padding-top: 4em;
+  }
+
+  h4 {
+
+    padding-top: 1em;
+  }
+
+  .personaje {
+
+    padding-top: 1em;
+  }
+
